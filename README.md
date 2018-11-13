@@ -5,7 +5,7 @@ This RSSI Dataset is a comprehensive set of Received Signal Strength Indicator (
 For the experimentation, the equipment used consisted of a Gimbal Series 10 Beacon.
  
 <p align="center">
-Equipment used in experimentation
+Gimbal Series 10 Beacon
 <img src="https://github.com/Raw-RSSI-Dataset-for-BLE-Beacon-Density-Optimization/Images/iBeacon_Gimbal_Series10.png">
 </p>
  
@@ -21,7 +21,7 @@ The testing environment used was a 10.8 x 7.3 m computer lab. This lab was a lar
  In the testing environemnt, fingerprints were gathered to be used in the creation of a database, while tests points were selected to be used against the database for the comparison. In the figures the black dots represent the location of the transmitters and the red dots represent the locations where fingerprints and tests points were gathered where appropiate. A general overview of the experimental topologies performed can be seen here:
 
 <p align="center">
-Equipment used in experimentation
+Experiment Layout
 <img src="https://github.com/Raw-RSSI-Dataset-for-BLE-Beacon-Density-Optimization/Images/layout.png">
 </p>
 
