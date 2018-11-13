@@ -24,10 +24,15 @@ The testing environment used was a 10.8 x 7.3 m computer lab. This lab was a lar
  ## Topology
  In the testing environemnt, fingerprints were gathered to be used in the creation of a database, while tests points were selected to be used against the database for the comparison. In the figures the black dots represent the location of the transmitters and the red dots represent the locations where fingerprints and tests points were gathered where appropiate. A general overview of the experimental topologies performed can be seen here:
 
-<p align="center">
+
+ <p align="center">
 Experiment Layout
+  </p>
+
+<p align="center">
+ 
  <img src="https://github.com/ssadowsk/Raw-RSSI-Dataset-for-BLE-Beacon-Density-Optimization/blob/master/Images/layout.png">
-</p>
+ </p>
 
  # Related Publications
  
