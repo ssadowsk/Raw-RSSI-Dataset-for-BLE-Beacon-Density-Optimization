@@ -39,12 +39,12 @@ Experiment Layout
  To be added...
  
  # Dataset
-The RSSI dataset is seperated based on the experimental scenario and furthermore on wireless technology (i.e. WiFi, BLE, and Zigbee). Each folder contains three additional folders seperating where the data was gathered (Pathloss, Database, and Tests). Pathloss contains 18 files measuring the RSSI at varying distances from the devices. The number of files located in Database and Tests varies based on the scenario.
+The RSSI dataset is seperated based on the number of transmitters and the position of the receiver. For specific locations, the (x,y) coordinates can be seen in Test.xlsx.
 
-For each technology the file name corresponds to the point as to where the data was gathered. For specific locations, the (x,y) coordinates can be seen in the appropiate .xlsx file.
+For the files in the Database and Tests folders there are approximatly 300 reading. Readings appear in the format "*Number* = *Value* *Timestamp*" where:
 
-For the files in the Database and Tests folders there are approximatly 300 reading. In the Pathloss folder there are a approximatly 50 only occuring from a single node. Readings appear in the format "Node *Letter*: *Value*" where:
-
-*Letter* corresponds to the transmitter that signal was sent from, represented by 'A', 'B', or 'C'.
+*Number* corresponds to the transmitter that signal was sent from, represented by '1', '2', ... , upto '8'.
 
 *Value* is the RSSI reading.
+
+*Timestamp* is a timestamp of when the reading was taken.
