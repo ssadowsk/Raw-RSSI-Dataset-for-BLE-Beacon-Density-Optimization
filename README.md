@@ -5,7 +5,10 @@ This RSSI Dataset is a comprehensive set of Received Signal Strength Indicator (
 For the experimentation, the transmitters used consisted of Gimbal Series 10 Beacons and a Raspberry Pi 3 Model B being used a the receiver.
  
    <p align="center">
-Gimbal Series 10 Beacon
+Gimbal Series 10 Beacon   
+  </p>
+
+<p align="center">
  
  <img src="https://github.com/ssadowsk/Raw-RSSI-Dataset-for-BLE-Beacon-Density-Optimization/blob/master/Images/iBeacon_Gimbal_Series10.png">
  </p>
