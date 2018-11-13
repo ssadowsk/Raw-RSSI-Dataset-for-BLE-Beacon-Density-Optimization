@@ -6,7 +6,7 @@ For the experimentation, the equipment used consisted of a Gimbal Series 10 Beac
  
 <p align="center">
 Gimbal Series 10 Beacon
-<img src="https://github.com/ssadowsk/Raw-RSSI-Dataset-for-BLE-Beacon-Density-Optimization/blob/master/Images/iBeacon_Gimbal_Series10.png">
+ <img src="https://github.com/ssadowsk/Raw-RSSI-Dataset-for-BLE-Beacon-Density-Optimization/blob/master/Images/iBeacon_Gimbal_Series10.png">
 </p>
  
 # Experiment
@@ -22,7 +22,7 @@ The testing environment used was a 10.8 x 7.3 m computer lab. This lab was a lar
 
 <p align="center">
 Experiment Layout
-<img src="https://github.com/ssadowsk/Raw-RSSI-Dataset-for-BLE-Beacon-Density-Optimization/blob/master/Images/layout.png">
+ <img src="https://github.com/ssadowsk/Raw-RSSI-Dataset-for-BLE-Beacon-Density-Optimization/blob/master/Images/layout.png">
 </p>
 
  # Related Publications
