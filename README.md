@@ -2,12 +2,17 @@
 
 This RSSI Dataset is a comprehensive set of Received Signal Strength Indicator (RSSI) readings gathered from a single environment using BLE beacons. The number of beacons was scaled from 3 to 8 performing the same analysis to determine the optimal number that produces results with the lowest error.
  
-For the experimentation, the equipment used consisted of a Gimbal Series 10 Beacon.
+For the experimentation, the transmitters used consisted of Gimbal Series 10 Beacons and a Raspberry Pi 3 Model B being used a the receiver.
  
-<p align="center">
+  <p align="center">
 Gimbal Series 10 Beacon
  <img src="https://github.com/ssadowsk/Raw-RSSI-Dataset-for-BLE-Beacon-Density-Optimization/blob/master/Images/iBeacon_Gimbal_Series10.png">
 </p>
+ 
+   <p align="center">
+Equipment used in experimentation
+<img src="https://github.com/ssadowsk/Raw-RSSI-Dataset-2/blob/master/Images/equipment.jpg">
+ </p>
  
 # Experiment
 A set of tests was conducted to determine the accuracy between multiple types of system designs including: Trilateration, and Nonliner Least Squares while using a moving average and Kalman filter. For the experiments all tests were done on tables which allowed tests to be simulated at a height where a user would be carrying a device in their pocket. Devices were also kept in the same orientation throughout all the tests in order to reduce the amount of error that would occur in the measuring of RSSI values. 
