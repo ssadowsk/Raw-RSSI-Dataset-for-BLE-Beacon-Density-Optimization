@@ -6,6 +6,7 @@ For the experimentation, the transmitters used consisted of Gimbal Series 10 Bea
  
    <p align="center">
 Gimbal Series 10 Beacon
+ 
  <img src="https://github.com/ssadowsk/Raw-RSSI-Dataset-for-BLE-Beacon-Density-Optimization/blob/master/Images/iBeacon_Gimbal_Series10.png">
  </p>
  
